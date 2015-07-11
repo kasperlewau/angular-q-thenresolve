@@ -1,7 +1,7 @@
 ## angular-q-thenresolve ![travisci](https://travis-ci.org/kasperlewau/angular-q-thenresolve.svg?branch=master)
-Adds a `.thenResolve` sugar method to promises returned by $q.
+> Adds a `.thenResolve` sugar method to promises returned by $q.
 
-#### installation
+### installation
 ```
   bower install angular-q-thenresolve --save
 ```
@@ -29,5 +29,5 @@ Adds a `.thenResolve` sugar method to promises returned by $q.
 ### testing
 `npm install; npm test`
 
-### License
-MIT
+### license
+MIT © [Kasper Lewau](https://github.com/kasperlewau)
