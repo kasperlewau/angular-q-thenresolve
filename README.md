@@ -1,4 +1,4 @@
-## angular-q-thenresolve ![travisci](https://travis-ci.org/kasperlewau/angular-q-thenresolve.svg?branch=master)
+## angular-q-thenresolve [![travisci](https://travis-ci.org/kasperlewau/angular-q-thenresolve.svg?branch=master)](https://travis-ci.org/kasperlewau/angular-q-thenresolve)
 > Adds a `.thenResolve` sugar method to promises returned by $q.
 
 ### installation
